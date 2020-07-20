@@ -1,6 +1,6 @@
 ##### Student: Qusai Fares
 
-##### Professor Muzghan Manati
+##### Professor Muzhgan Manati
 
 ##### COP1220
 
